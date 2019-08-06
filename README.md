@@ -61,10 +61,10 @@
 
 ### Example: 
 
-
-
-<script type = "text/javascript">
-        
+<html>
+   <body>  
+      <script type = "text/javascript">
+         
             var a = 10;
             var b = 20;
             var linebreak = "<br />";
@@ -99,7 +99,10 @@
             document.write(result);
             document.write(linebreak);
          
-      </script>  
+      </script>      
+      Set the variables to different values and different operators and then try...
+   </body>
+</html>
 
 ### Logical (or Relational) Operators
 ### Assignment Operators
