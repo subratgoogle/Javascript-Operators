@@ -5,10 +5,12 @@
 <ul> 
   
 ### Arithmetic Operators
+#### An arithmetic operator is a mathematical function that takes two operands and performs a calculation on them. They are used in common arithmetic and most computer languages contain a set of such operators that can be used within equations to perform a number of types of sequential calculation
 
-#### <html>
-   <body>
-   
+### Exampe: 
+
+<html>
+   <body>   
       <script type = "text/javascript">
             var a = 33;
             var b = 10;
@@ -52,7 +54,6 @@
             document.write(result);
             document.write(linebreak);
       </script>
-      
    </body>
 </html>
 
